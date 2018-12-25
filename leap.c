@@ -1,9 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 	int a,b,i,test;
-	clrscr();
 	scanf("%d",&test);
 	while(t)
 	{
@@ -17,5 +15,5 @@ void main()
 		}
 			t--;
 	}
-	getsch();
+	getch();
 }
